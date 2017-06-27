@@ -1,6 +1,5 @@
-def answer
-x = 15
-y = 13
-p "#{x - y}"
+def minus(num1, num2)
+	puts num1 - num2
 end
-answer
+
+minus(10,11)
